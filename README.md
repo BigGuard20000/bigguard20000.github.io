@@ -1,3 +1,3 @@
 # BigGuard20000
-<p></p>
+<p>
 # Hello, I am BigGuard20000.
